@@ -1,0 +1,2 @@
+(a) 5 times
+(b) space and steps required: log3(10n)
